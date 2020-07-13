@@ -1,4 +1,11 @@
-### Hi there 👋
+# Christoph Perger - @pergerch
+
+Hi, I am Christoph. I am a highly skilled Software Architect with more than 10 years of professional experience in software development, spatial data management, and data modeling. After acquiring a solid web development background, my focus has shifted into distributed cloud and microservice type applications as well as mobile apps in the .NET ecosystem.
+
+## How to reach me:
+- Spatial Focus Website - [spatial-focus.net](https://spatial-focus.net)
+- Linkedin - [/in/christoph-perger](https://www.linkedin.com/in/christoph-perger)
+
 
 <!--
 **pergerch/pergerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
