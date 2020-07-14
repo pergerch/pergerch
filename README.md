@@ -1,6 +1,6 @@
 # Christoph Perger - @pergerch
 
-Hi, I am Christoph. I am a highly skilled Software Architect with more than 10 years of professional experience in software development, spatial data management, and data modeling. After acquiring a solid web development background, my focus has shifted into distributed cloud and microservice type applications as well as mobile apps in the .NET ecosystem.
+Hi, I am Christoph. I am a skilled Software Architect / Senior Software Engineer with more than 10 years of professional experience in software development, spatial data management, and data modeling. After acquiring a solid web development background, my focus has shifted into distributed cloud and microservice type applications as well as mobile apps in the .NET ecosystem.
 
 ## How to reach me:
 - Spatial Focus Website - [spatial-focus.net](https://spatial-focus.net)
